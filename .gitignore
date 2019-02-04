@@ -6,6 +6,10 @@ JLexer.java
 
 .gradle
 /build/
+.classpath
+.project
+/.settings/
+/bin/
 
 # Ignore Gradle GUI config
 gradle-app.setting
